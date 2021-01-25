@@ -6,7 +6,7 @@ Allow me to show you around:
 
 🧐 Besides bdov.dev, you might notice that these projects do not date earlier than September 2019. This is when I joined [Einstein Studios](https://www.linkedin.com/company/einstein-studios/) as Lead Software Engineer. Naturally, I cannot share the private repositories I've been working in with Einstein, but to give an overview of what I've been up to:
 
-- 🐨 Currently, I am working together with our CTO to build Koala, a 3D, collaborative virtual classroom software supported on Mac, Windows and web. For this project, I learned Unity and c#, but I additionally own the accompanying web lobby and launcher applications built using Next.js and Electron.
+- 🐨 Currently, I am working together with our CTO to build Koala, a 3D, collaborative virtual classroom software supported on Mac, Windows and web. For this project, I learned Unity and C#, but I additionally own the accompanying web lobby and launcher applications built using Next.js and Electron.
   - Link: [teachwithkoala.com](https://teachwithkoala.com)
   - Tech Stack: Unity, C#, TypeScript, Node.js, React, Next.js, Electron, MySQL, Python, Flask, AWS, Vercel
   
