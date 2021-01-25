@@ -1,7 +1,5 @@
 ### I'm honored you're visiting my GitHub! :octocat:
 
-I should probably call myself a full-stack engineer; however, I tend to more simply "software engineer" because I am excited about learning and working on more than just the web 🌎.
-
 Allow me to show you around:
 
 👇 I've pinned the four repositories that most closely reflect my development skills and focus today. Two are personal projects, the other two were built with peers while studying at [Holberton School](https://holbertonschool.com).
