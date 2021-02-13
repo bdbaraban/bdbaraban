@@ -1,4 +1,4 @@
-## I'm honored you're visiting my GitHub! :octocat:
+### I'm honored you're visiting my GitHub! :octocat:
 
 Allow me to show you around:
 
@@ -15,7 +15,7 @@ Allow me to show you around:
 
 ### 👨‍💻 Current Work
 
-I am the Lead Software Engineer at [Einstein Studios](https://www.linkedin.com/company/einstein-studios/), where I am building:
+I am the Lead Software Engineer at [Einstein Studios](https://www.linkedin.com/company/einstein-studios/), where I build:
 
 - 🐨 [Koala](https://teachwithkoala.com): 3D collaborative virtual classroom app supported on Mac, Windows and web.
 
