@@ -1,4 +1,4 @@
-### I'm honored you're visiting my GitHub! :octocat:
+## I'm honored you're visiting my GitHub! :octocat:
 
 Allow me to show you around:
 
@@ -13,9 +13,9 @@ Allow me to show you around:
 | 🐟 [spadefish_gitapp](https://github.com/BennettDixon/spadefish_gitapp) | 24-hour hack day app developed with team of 7 engineers                                      |
 | 🐹 [KivyUp](https://github.com/bdbaraban/KivyUp)                        | 24-hour hack day app developed with team of 5 engineers                                      |
 
-### 🌎 Professional Work
+### 👨‍💻 Current Work
 
-I am the Lead Software Engineer at [Einstein Studios](https://www.linkedin.com/company/einstein-studios/), where I am currently working on:
+I am the Lead Software Engineer at [Einstein Studios](https://www.linkedin.com/company/einstein-studios/), where I am building:
 
 - 🐨 [Koala](https://teachwithkoala.com): 3D collaborative virtual classroom app supported on Mac, Windows and web.
 
