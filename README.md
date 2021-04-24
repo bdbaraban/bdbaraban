@@ -15,15 +15,7 @@ Allow me to show you around:
 
 ### 👨‍💻 Current Work
 
-I am the Lead Software Engineer at [Einstein Studios](https://www.linkedin.com/company/einstein-studios/), where I build:
-
-- 🐨 [Koala](https://teachwithkoala.com): 3D collaborative virtual classroom app supported on Mac, Windows and web.
-
-  - **Tech Stack**: Unity, C#, TypeScript, Node.js, React, Next.js, Chakra UI, Electron, MySQL, Prisma, Python, Flask, AWS, Vercel
-
-- 🇪🇸 [Tutoring Web Platforms](https://einsteinstudios.io): Tutor, parent, and admin web apps for Einstein Studios' Spanish and reading tutoring service.
-
-  - **Tech Stack**: TypeScript, Node.js, Express, React, Gatsby, Chakra UI, Material-UI, MySQL, Stripe, AWS, Vercel
+I am a full-stack software engineer at [Shef](https://github.com/shefhq).
 
 ---
 
