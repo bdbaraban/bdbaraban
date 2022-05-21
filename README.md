@@ -3,13 +3,13 @@
 Software engineer at [Shef](https://shef.com).
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/bdbaraban/bdbaraban?color=blue&label=last%20updated&style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/bdbaraban/bdbaraban?color=blue&label=last%20updated&style=flat" />
 </p>
 
 ### 📖 Getting Started
 You can read more about me at my [personal website](https://bdov.dev).
 
-### 📬 Usage
+### ✍️ Usage
 
 <big><pre>
 &#62; ./send_me_an_email
